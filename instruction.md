@@ -25,4 +25,4 @@
 ### Git diff
 Показывает разницу между текущим и закомиченным файлом
 
-![Vse ponyatno?](mem2.JPG)
+![Vse ponyatno?](mem.JPG)
